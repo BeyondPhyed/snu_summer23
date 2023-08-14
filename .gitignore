@@ -2,3 +2,5 @@
 *.toml
 *.png
 *.pdf
+*.csv
+*.json
